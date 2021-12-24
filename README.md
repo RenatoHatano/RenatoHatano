@@ -13,7 +13,10 @@
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoHatano&layout=compact&langs_count=7&theme=dracula" />
 </div>
   
- <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/renato-hiroshi-guimar%C3%A3es-hatano-030807192/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the- badge & logo = linkedin & logoColor = white "> </a>
   
+  <br>
+   
+ <a href="https://www.linkedin.com/in/renato-hiroshi-guimarães-hatano-030807192"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the- badge & logo = linkedin & logoColor = white "> </a>
+<br> <br>
   
  
