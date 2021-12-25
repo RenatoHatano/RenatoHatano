@@ -1,5 +1,4 @@
-
-## Olá!! Eu sou o Renato Hatano,  
+## Olá!! Eu sou o Renato Hatano,    
 
 * Atualmente estudo Análise e Desenvolvimento de Sistemas 🧑‍💻
 * Moro em Uberlândia-MG 🏠
@@ -17,7 +16,7 @@
   <img align="center" alt="Renato-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Renato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Renato-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Renato-JAVA" height="33" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <br>
   <br>
     <a href="https://www.linkedin.com/in/renato-hiroshi-guimarães-hatano-030807192"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a><a
