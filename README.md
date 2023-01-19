@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Renato Hatano,    
 
-* Atualmente estudo Análise e Desenvolvimento de Sistemas 🧑‍💻
+*  Formado em Análise e Desenvolvimento de Sistemas 🧑‍💻
 * Moro em Uberlândia-MG 🏠
 * Tenho Curiosidade por Tecnologia 🖥️
 * Hobbies: Jogar online 🎮 e Tocar Violão 🎸
